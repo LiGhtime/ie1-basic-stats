@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// random comment
 public class MinMaxCalculation {
 
     public static int[] findMinMax(int[] numbers) {
